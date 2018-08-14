@@ -1,4 +1,9 @@
 <?
+    // Created by Mostafa Iqbal (github.com/mostafaiqbal)
+    //Present to You by MiQ iNNOV@TiON (github.com/miqinnovation)
+    //This codes are free to use
+
+
     $error = "";
     $successMessage = "";
     
